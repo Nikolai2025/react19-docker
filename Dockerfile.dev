@@ -1,5 +1,5 @@
 # Dev image for React (Vite) with hot reload
-FROM node:20-bullseye-slim
+FROM node:20-alpine
 
 WORKDIR /app
 
